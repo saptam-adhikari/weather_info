@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  #container {
+    margin-top: 20px;
+  }
+  
+  .mapouter {
+    position: relative;
+    text-align: center;
+    height: 500px;
+    width: 600px;
+    margin: 20px auto;
+  }
+  
+  .gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 600px;
+  }
+
+  h1{
+    text-align: center;
+    color: rgb(20, 1, 1);
+    text-decoration: underline;
+}
+
+p{
+    font-weight: bolder;
+    height: 30px;
+ 
+}
+
+body{
+    background-image: url('https://4kwallpapers.com/images/wallpapers/windows-11-landscape-scenery-sunrise-stock-day-light-1920x1080-5661.jpg');
+    
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+    
+}
+  
